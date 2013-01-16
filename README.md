@@ -1,7 +1,7 @@
 # Introduction
 
 TwisterClient is a simple python client interface to a
-[https://github.com/ccnmtl/twister/](Twister) server.
+(https://github.com/ccnmtl/twister/)[Twister] server.
 
 # Installation
 
